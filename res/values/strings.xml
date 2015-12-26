@@ -1,0 +1,119 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">RUBIX</string>
+    <string name="url_for_time">http://www.ip-api.com/json</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+    <string name="wifi_Connectivity">Wi-Fi Configuration </string>
+    <string name="title_activity_entertainment">Entertainment</string>
+    <string name="wifi">WIFI</string>
+    <string name="entertainment">ENTERTAINMENT</string>
+    <string name="settings">SETTINGS</string>
+    <string name="main_menu">MAIN MENU</string>
+    <string name="youtube_str">YOUTUBE</string>
+    <string name="showbox_str">SHOWBOX</string>
+    <string name="kodi_str">KODI</string>
+    <string name="netflix_str">NETFLIX</string>
+    <string name="pandora_str">PANDORA</string>
+    <string name="soundcloud_str">SOUNDCLOUD</string>
+    <string name="spotify_str">SPOTIFY</string>
+    <string name="iheartradio_str">IHEARTRADIO</string>
+    <string name="hulu_str">HULU</string>
+    <string name="popcorntime_str">POPCORN TIME</string>
+  
+    <string name="entertainment_menu">ENTERTAINMENT</string>
+    <string name="agree">I agree to these terms.</string>
+    <string name="wifisetup"> W I F I &#160;&#160;S E T U P</string>
+    <string name="wifiexit">EXIT</string>
+    <string name="dontagree">I don \'t agree.</string>
+    <string name="header"> D I S C L A I M E R  &#160;/ &#160;T E R M S &#160;O F &#160;S E R V I C E</string>
+    <string name="praragraph"> \t This agreement ("Agreement") forms a legally binding contract between you and Google in 
+      relation to your use of the Store to distribute Products. You acknowledge that Google will, 
+      solely on your behalf, and not on Google’s behalf, display and make Products available for 
+      download and purchase by users. In order to use the Store to distribute Products, you must 
+      accept this Agreement and provide complete and accurate information in the Developer Console.
+      You may not distribute Products on the Store if you do not accept this Agreement.\n \n
+    You may not use the Store to distribute Products and may not accept the Agreement unless you
+    are verified as a Developer in good standing. This Agreement will automatically terminate if you
+    are (a) not a Developer in good standing, or (b) a person or entity that is barred from using
+    Android software under the laws of the United States or other countries, including the country
+    in which you are a resident or from which you use the Android software.\n \n
+
+    If you agree to be bound by this Agreement on behalf of your employer or any other entity,
+    you represent and warrant that you have full legal authority to bind your employer or such 
+    entity to this Agreement. If you do not have the requisite authority, you may not accept
+    the Agreement or use the Store on behalf of your employer or any other entity. \n\n
+
+    This Agreement covers both Products you choose to distribute for free and Products
+    for which you charge a fee. In order to charge a fee for your Products, you must have
+    a valid Payment Account under a separate agreement with a Payment Processor. 
+    If you have an existing Payment Account with a Payment Processor before signing up for the
+    Store, then the terms of that agreement will apply except in the event of a conflict with 
+    this Agreement (in which case the terms of this Agreement shall apply).\n\n
+
+    Products are displayed to users on your behalf, at prices you establish at your sole 
+    discretion. Google may include applicable taxes in the price charged to users on the Store.
+    You may set the price for your Products in the currencies permitted by the Payment Processor.
+    Google may display the price of Products to users in their native currency, but it is not
+    responsible for the accuracy of currency rates or currency conversion.\n\n
+
+    You are the merchant of record for Products you sell through the Store. The price you set
+    for Products will determine the amount of payment you will receive. A Transaction Fee, 
+    as defined below, will be charged on the sales price and apportioned to the Payment Processor 
+    and, if one exists, the Authorised Operator. Where either Google, the Payment Processor or the
+    Authorised Carrier are required by applicable (local) legislation to withhold any taxes
+    ("Withholding Taxes") on payments made or received by anyone of them, Google will also 
+    deduct an amount equal to such Withholding Taxes from the sales price. For the avoidance 
+    of doubt, Withholding Taxes include, but are not limited to, withholding tax obligations 
+    on cross-border payments or imposed by telecommunications taxes. The remainder 
+    (sales price less Transaction Fee, and less the amount equal to any Withholding Taxes) 
+    will be remitted to you. The "Transaction Fee" is set forth here and may be revised by
+    Google from time to time. You are responsible for providing any applicable tax residency 
+    certificates to Google. If Google or its service provider does not receive such documentation,
+    Google will withhold at the domestic withholding tax rate.\n\n
+
+   Developer is responsible for determining if a Product is taxable and the applicable
+   tax rate for the Payment Processor to collect for each taxing jurisdiction where Products 
+   are sold. The Developer is responsible for remitting taxes to the appropriate taxing authority.
+   Where Google, the Payment Processor or the Authorised Carrier is required by applicable (local)
+   legislation to determine, apply and pay the applicable tax rate, Google, the Payment Processor
+   or the Authorised Carrier (and not Developer) will be responsible for applying and collecting
+   and remitting the taxes to the appropriate taxing authority. If Google collects and remits 
+   value added taxes on customer payments (where required of Google by applicable local law)
+   and this remittance fulfils the applicable requirements for value added taxes on those 
+   customer payments, such taxes will not be passed on to Developer by Google.
+   Where Google is required to collect and remit taxes as described in this section,
+   Developer and Google will recognise a supply from Developer to Google for tax purposes,
+   and developer will comply with the relevant tax obligations arising from this additional
+   supply.\n\n
+
+    You may also choose to distribute Products for free. If the Product is free, 
+    you will not be charged a Transaction Fee. You may not start charging a user for a Product that 
+    was initially free unless the charge correlates with an alternative version of the Product.
+    The Payment Processor must process all fees a Developer receives for any version of a
+    Product distributed via the Store.\n\n
+
+    You Support Your Product. Buyers are instructed to contact the developer concerning any defects
+    or performance issues in applications downloaded and installed from Google Play. You will be 
+    solely responsible for, and Google will have no responsibility to undertake or handle, support
+    and maintenance of your Products and any complaints about your Products. You must supply and 
+    maintain valid and accurate contact information that will be displayed in each application 
+    detail page on the Store and made available to users for customer support and legal purposes.
+    For paid Products or in-app transactions, you must respond to customer support inquiries
+    within three (3) working days, and within 24 hours to any support or Product concerns 
+    stated to be urgent by Google. Failure to provide adequate information or support for
+    your Products may result in low Product ratings, less prominent product exposure, 
+    low sales, billing disputes, or removal from the Store.  </string>
+    <string name="title_activity_wifi">WifiActivity</string>
+    <string name="popcorntime_pacakage_name">dp.ws.popcorntime</string>
+    <string name="hulu_pacakage_name">com.hulu.plus</string>
+    <string name="youtube_pacakage_name">com.google.android.youtube</string>
+    <string name="showbox_pacakage_name">com.tdo.showbox</string>
+    <string name="kodi_pacakage_name">org.xbmc.kodi</string>
+    <string name="netfix_pacakage_name">com.netflix.mediaclient</string>
+     <string name="iheartradio_pacakage_name">com.clearchannel.iheartradio.controller</string>
+   <string name="spotify_pacakage_name">com.spotify.music</string>
+    <string name="soundcloud_pacakage_name">com.soundcloud.android</string>
+      <string name="pandora_pacakage_name">com.pandora.android</string>
+</resources>
